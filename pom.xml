@@ -56,6 +56,13 @@
             <version>1.6.1</version>
         </dependency>
 
+        <!-- sql parser: druid-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.1.21</version>
+        </dependency>
+
         <!-- mybatis and spring-core -->
         <dependency>
             <groupId>org.mybatis</groupId>
